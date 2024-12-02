@@ -14,19 +14,19 @@ body:
     validations:
       required: false
   - type: input
-    id: steam-name
-    attributes:
-      label: Steam Profile Name
-      description: 'The current name that appears at the top of their profile page. The user might not be totally identifiable based off of this.'
-      placeholder: ex. grincher
-    validations:
-      required: false
-  - type: input
     id: steam-profile
     attributes:
       label: Link to Steam Profile
       description: 'Can be found by right clicking on the users profile and clicking "Copy Page URL"'
       placeholder: ex. https://steamcommunity.com/profiles/76561199220832861
+    validations:
+      required: false
+  - type: input
+    id: steam-name
+    attributes:
+      label: Steam Profile Name
+      description: 'The current name that appears at the top of their profile page. The user might not be totally identifiable based off of this.'
+      placeholder: ex. grincher
     validations:
       required: false
   - type: textarea
