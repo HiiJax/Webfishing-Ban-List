@@ -1,5 +1,5 @@
 ---
-name: Report a Malicious User
+name: Report a Malicious User - OUTDATED
 about: Request a user be added to the ban list. Please fill as many fields as you
   can.
 title: ''
