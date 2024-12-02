@@ -1,0 +1,30 @@
+name: Appeal a Ban
+description: Request that you be removed from the list.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        You may only fill this form once. Future ban appeals under the same GitHub username won't be considered.
+  - type: input
+    id: steamid
+    attributes:
+      label: SteamID
+      description: 'Your unique Steam identifier. Formatted as 7656119##########'
+      placeholder: ex. 7656119##########
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: Why should you be unbanned?
+      placeholder: ex. I was wrongfully accused of...
+    validations:
+      required: true
+  - type: textarea
+    id: extra-details
+    attributes:
+      label: Extra Details
+      description: Provide any extra information you think might be helpful. You can add screenshots too if you'd like.
+    validations:
+      required: false
