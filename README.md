@@ -1,5 +1,5 @@
 # Webfishing-Ban-List
-A list of potentially harmful SteamIDs to use with Webfishing [Cove dedicated server](https://github.com/DrMeepso/WebFishingCove) ban lists and/or protection mods such as [LobbyLifeguard](https://thunderstore.io/c/webfishing/p/Vildravn/LobbyLifeguard/).
+A list of potentially harmful SteamIDs to use with [Webfishing Cove](https://github.com/DrMeepso/WebFishingCove) dedicated server ban lists and/or protection mods such as [LobbyLifeguard](https://thunderstore.io/c/webfishing/p/Vildravn/LobbyLifeguard/).
 
 ## NOTE
 Modding (in ways that don't affect others), griefing (boxing glove), and inapproiate use of text chat are NOT valid reasons to be added to this list.
