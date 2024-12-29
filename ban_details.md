@@ -19,3 +19,4 @@
 | 76561199811814982 | wentaffy               | Slurs in chat                                           |
 | 76561198312342854 | * drycable             | [Bot that blocks users from joining ](https://github.com/HiiJax/Webfishing-Ban-List/issues/2) |
 | 76561199812719861 | John Webfishing        | Spam joining lobbies                                    |
+| 76561198125175177 | sierra                 | https://github.com/HiiJax/Webfishing-Ban-List/issues/4  |
